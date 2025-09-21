@@ -17,7 +17,7 @@
           <mxGeometry x="-210" y="190" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nbyk5Fpjv4jQm-VhyaZE-4" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;查找文献&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;学习软件&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;labelBorderColor=none;textShadow=0;fontColor=#FFFFFF;perimeterSpacing=0;strokeWidth=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="80" y="90" width="180" height="60" as="geometry" />
+          <mxGeometry x="350" y="80" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
