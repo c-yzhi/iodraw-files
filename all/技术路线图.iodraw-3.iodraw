@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Nbyk5Fpjv4jQm-VhyaZE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uRtBMmVFdS0fqJJX59rP-3" target="Nbyk5Fpjv4jQm-VhyaZE-4">
+        <mxCell id="Nbyk5Fpjv4jQm-VhyaZE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="uRtBMmVFdS0fqJJX59rP-3" target="Nbyk5Fpjv4jQm-VhyaZE-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uRtBMmVFdS0fqJJX59rP-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;高校实验楼火灾应急疏散评估与优化&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;——以宜宾市某高校为例&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;labelBorderColor=none;textShadow=0;fontColor=#FFFFFF;perimeterSpacing=0;strokeWidth=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
