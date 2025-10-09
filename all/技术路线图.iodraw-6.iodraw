@@ -123,7 +123,7 @@
         <mxCell id="LJsztHpOV7nIX2RBuVLX-37" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;对比&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;ASET与RSET&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;labelBorderColor=none;textShadow=0;fontColor=#FFFFFF;perimeterSpacing=0;strokeWidth=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="70" y="637" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LJsztHpOV7nIX2RBuVLX-38" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;对比&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;ASET与RSET&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;labelBorderColor=none;textShadow=0;fontColor=#FFFFFF;perimeterSpacing=0;strokeWidth=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="LJsztHpOV7nIX2RBuVLX-38" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;ASET&amp;gt;RSET&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;labelBorderColor=none;textShadow=0;fontColor=#FFFFFF;perimeterSpacing=0;strokeWidth=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-70" y="768" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LJsztHpOV7nIX2RBuVLX-39" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;对比&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;ASET与RSET&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;labelBorderColor=none;textShadow=0;fontColor=#FFFFFF;perimeterSpacing=0;strokeWidth=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
