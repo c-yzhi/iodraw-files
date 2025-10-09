@@ -36,7 +36,7 @@
         <mxCell id="LJsztHpOV7nIX2RBuVLX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FFFFFF;" edge="1" parent="1" source="Nbyk5Fpjv4jQm-VhyaZE-3" target="LJsztHpOV7nIX2RBuVLX-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LJsztHpOV7nIX2RBuVLX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nbyk5Fpjv4jQm-VhyaZE-3" target="LJsztHpOV7nIX2RBuVLX-15">
+        <mxCell id="LJsztHpOV7nIX2RBuVLX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Nbyk5Fpjv4jQm-VhyaZE-3" target="LJsztHpOV7nIX2RBuVLX-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nbyk5Fpjv4jQm-VhyaZE-3" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;建立模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;labelBorderColor=none;textShadow=0;fontColor=#FFFFFF;perimeterSpacing=0;strokeWidth=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
@@ -75,7 +75,7 @@
           <mxGeometry x="-210" y="360" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LJsztHpOV7nIX2RBuVLX-15" value="&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;确认模型&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;可量化参数&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;labelBorderColor=none;textShadow=0;fontColor=#FFFFFF;perimeterSpacing=0;strokeWidth=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="170" y="223" width="180" height="60" as="geometry" />
+          <mxGeometry x="170" y="220" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
