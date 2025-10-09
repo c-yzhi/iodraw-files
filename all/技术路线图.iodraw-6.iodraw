@@ -60,7 +60,7 @@
         <mxCell id="LJsztHpOV7nIX2RBuVLX-6" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;仿真模拟&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;labelBorderColor=none;textShadow=0;fontColor=#FFFFFF;perimeterSpacing=0;strokeWidth=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="70" y="310" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LJsztHpOV7nIX2RBuVLX-9" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;问卷调查&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;分析差异&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;labelBorderColor=none;textShadow=0;fontColor=#FFFFFF;perimeterSpacing=0;strokeWidth=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="LJsztHpOV7nIX2RBuVLX-9" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;文献研究法&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;归纳总结法&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;labelBorderColor=none;textShadow=0;fontColor=#FFFFFF;perimeterSpacing=0;strokeWidth=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="630" y="80" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
